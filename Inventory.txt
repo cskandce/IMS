@@ -1,0 +1,62 @@
+{"1": {"Pr_name": "earphone", "price": 189.0, "Stock": 25, "category": "electronics", "discount": 0}, "2": {"Pr_name
+
+": "HDD", "price": 45.0, "Stock": 25, "category": "electronics", "discount": 4}, "3": {"Pr_name
+
+": "CHARGER", "price": 99.0, "Stock": 25, "category": "electronics", "discount": 12}, "4": {"Pr_name
+
+": "TEA", "price": 49.0, "Stock": 25, "category": "Drinks", "discount": 3}, "5": {"Pr_name
+
+": "cashew", "price": 149.0, "Stock": 25, "category": "eatables", "discount": 8}, "6": {"Pr_name
+
+": "TAPE", "price": 299.0, "Stock": 25, "category": "eatables", "discount": 23}, "7": {"Pr_name
+
+": "gooday", "price": 149.0, "Stock": 25, "category": "eatables", "discount": 13}, "8": {"Pr_name
+
+": "parle g", "price": 89.0, "Stock": 25, "category": "Drinks", "discount": 67}, "9": {"Pr_name
+
+": "bingo", "price": 69.0, "Stock": 25, "category": "Drinks", "discount": 11}, "10": {"Pr_name
+
+": "5 star", "price": 49.0, "Stock": 25, "category": "eatables", "discount": 15}, "11": {"Pr_name
+
+": "hersheys", "price": 149.0, "Stock": 25, "category": "eatables", "discount": 45}, "12": {"Pr_name
+
+": "oil", "price": 79.0, "Stock": 25, "category": "eatables", "discount": 0}, "13": {"Pr_name
+
+": "dairy milk", "price": 249.0, "Stock": 25, "category": "Drinks", "discount": 34}, "14": {"Pr_name
+
+": "hair oil", "price": 229.0, "Stock": 25, "category": "cosmetic", "discount": 12}, "15": {"Pr_name
+
+": "comb", "price": 29.0, "Stock": 25, "category": "cosmetic", "discount": 76}, "16": {"Pr_name
+
+": "refine oil", "price": 39.0, "Stock": 25, "category": "eatables", "discount": 10}, "17": {"Pr_name
+
+": "masala puri", "price": 10.0, "Stock": 25, "category": "eatables", "discount": 7}, "18": {"Pr_name
+
+": "candy", "price": 50.0, "Stock": 25, "category": "eatables", "discount": 56}, "19": {"Pr_name
+
+": "sauce", "price": 100.0, "Stock": 25, "category": "eatables", "discount": 34}, "20": {"Pr_name
+
+": "soyabean", "price": 150.0, "Stock": 25, "category": "eatables", "discount": 21}, "21": {"Pr_name
+
+": "fruits", "price": 200.0, "Stock": 25, "category": "eatables", "discount": 17}, "22": {"Pr_name
+
+": "stationary", "price": 250.0, "Stock": 25, "category": "education", "discount": 14}, "23": {"Pr_name
+
+": "cake", "price": 80.0, "Stock": 25, "category": "decor", "discount": 0}, "24": {"Pr_name
+
+": "almond", "price": 75.0, "Stock": 25, "category": "decor", "discount": 5 }, "25": {"Pr_name
+
+": "glass", "price": 45.0, "Stock": 25, "category": "decor", "discount": 6}, "26": {"Pr_name
+
+": "alcohol", "price": 105.0, "Stock": 25, "category": "Drinks", "discount": 80}, "27": {"Pr_name
+
+": "hairpin", "price": 155.0, "Stock": 25, "category": "cosmetic", "discount": 43}, "28": {"Pr_name
+
+": "facewash", "price": 245.0, "Stock": 25, "category": "cosmetic", "discount": 57}, "29": {"Pr_name
+
+": "toys", "price": 225.0, "Stock": 25, "category": "decor", "discount": 90}, "30": {"Pr_name
+
+": "book", "price": 285.0, "Stock": 50, "category": "education", "discount": 1}}
+
+
+
